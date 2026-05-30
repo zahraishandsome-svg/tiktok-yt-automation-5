@@ -156,3 +156,4 @@ jobs:
           name: logs-slot2-ch5-${{ github.run_id }}
           path: logs/
           retention-days: 14
+
