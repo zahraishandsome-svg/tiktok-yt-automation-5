@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+.env
+credentials/*.json
+tokens/*.json
+downloads/
+logs/
+*.db
+!data/.gitkeep
